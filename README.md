@@ -15,25 +15,25 @@ python number_conversions.py
 
 # Usage
 
-Upon launching the application, you will see a GUI window with two dropdown menus labeled "From" and "To". Select the numeral systems you want to convert from and to, respectively.
-Enter a number in the text box labeled "Enter a number" that you want to convert.
-Click the "Convert" button to perform the conversion.
-The result will be displayed in the text box labeled "Result".
-To clear the input and result, click the "Clear" button.
+1. Upon launching the application, you will see a GUI window with two dropdown menus labeled "From" and "To". Select the numeral systems you want to convert from and to, respectively.
+2. Enter a number in the text box labeled "Enter a number" that you want to convert.
+3. Click the "Convert" button to perform the conversion.
+4. The result will be displayed in the text box labeled "Result".
+5. To clear the input and result, click the "Clear" button.
 
 # Supported Conversions
 
 The application supports the following conversions:
 
-Binary to Octal
-Binary to Decimal
-Binary to Hexadecimal
-Decimal to Binary
-Decimal to Octal
-Decimal to Hexadecimal
-Octal to Binary
-Octal to Decimal
-Octal to Hexadecimal
-Hexadecimal to Binary
-Hexadecimal to Decimal
-Hexadecimal to Octal
+1. Binary to Octal
+2. Binary to Decimal
+3. Binary to Hexadecimal
+4. Decimal to Binary
+5. Decimal to Octal
+6. Decimal to Hexadecimal
+7. Octal to Binary
+8. Octal to Decimal
+9. Octal to Hexadecimal
+10. Hexadecimal to Binary
+11. Hexadecimal to Decimal
+12. Hexadecimal to Octal
